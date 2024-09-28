@@ -1,9 +1,9 @@
-# metacrafters_AVAX-PROOF_Project_Module_2
+# Metacrafters_AVAX-PROOF_Project_Module_2
 
 # Customized Subnet Using HperSDK
 This Project is designed to facilitate the creation, management, and interaction of tokens within a virtual machine environment.
 ## Features
-* **Token Creation:** Effortlessly create new tokens.
+* **Token Creation:** Easily reate new tokens.
 * **Token Management:** Manage your tokens with ease, including handling transfers and checking balances.
 * **Interoperability:** Designed for seamless integration with other virtual machine environments.
 
@@ -159,7 +159,7 @@ perform import on destination (y/n): y
 ```
 
 # PROJECT BY
-- ARYAN VISHWAKARMA
+- Kushagra Kumar
 
 
 
